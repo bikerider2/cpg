@@ -1,2 +1,3 @@
-cpg
+(cpg)
 ===
+Clojure Playground
